@@ -1,0 +1,15 @@
+@font-face {
+    font-family: judas;
+    src: url(fFearOfBlood.ttf);
+}
+h1{
+    color: rgb(113, 22, 127);
+    font-family: judas;
+    font-size: 200px;
+
+}
+h1:hover{
+    transition: 2s;
+    font-size: 400px;
+}
+
